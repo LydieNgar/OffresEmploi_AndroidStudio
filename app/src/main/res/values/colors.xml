@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#900C3F</color>
+    <color name="colorPrimaryDark">#581845</color>
+    <color name="colorAccent">#C70039</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#FF5733</color>
+    <color name="loginBkColor">#FFC300</color>
+
+    <color name="grise">#F0F3D6</color>
+    <color name="whiteCardColor">#fff</color>
+
+    <!--test-->
+    <color name="color1">#DAF7A6</color>
+    <color name="color2">#FFC300</color>
+    <color name="color3">#FF5733</color>
+    <color name="color4">#C70039</color>
+    <color name="color5">#900C3F</color>
+    <color name="color6">#581845</color>
+
+    /*
+    #DAF7A6
+    #FFC300
+    #FF5733
+    #C70039
+    #900C3F
+    #581845
+    */
+
+</resources>
